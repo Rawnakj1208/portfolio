@@ -11,6 +11,7 @@ h3{
 }
 p{
     font-size: 20px;
+    text-align: justify;
 }
 .orangecolor{
     color: orange;
@@ -18,6 +19,7 @@ p{
 
 section{
     display: flex;
+    margin: 10px;
 }
 
 .half-width{
@@ -44,4 +46,11 @@ section{
     background-image: url(imges/sectioncorner.png);
     background-repeat: no-repeat;
 
+}
+
+.dream-big{
+    background-image:url(imges/section2coener.png) ;
+    background-repeat: no-repeat;
+    background-position: right;
+    
 }
